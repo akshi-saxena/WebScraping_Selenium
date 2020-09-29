@@ -32,7 +32,7 @@ DRIVER_PATH = 'chromedriver_win32\chromedriver'
 driver = webdriver.Chrome(options=options, executable_path=DRIVER_PATH)
 driver.get(url)
 
-columns_list = ["vote_share","total_reported_spending","electorate_figure","spending_limit","spending_as_percent"\
+columns_list = ["vote_share","total_reported_spending","electorate_figure","spending_limit","spending_as_percent",\
     "direct_spending","notional_spending","unpaid_claims","disputed_claims","advertising","unsolicitated_material",\
     "transport","public_meetings","agent_and_staff","accomodation",\
     "personal_expenses","donations_accepted"]
