@@ -1,5 +1,5 @@
-# WebScraping_Selenium
-Scraping UK parliamentary general election candidate spending(2019) data using Selenium
+# Web Scraping using Selenium
+Scraping UK parliamentary general election candidate spending(2019) using Selenium
 
 Tasks completed:
 
