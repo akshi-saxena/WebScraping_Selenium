@@ -2,6 +2,7 @@
 Scraping UK parliamentary general election candidate spending(2019) data using Selenium
 
 Tasks completed:
+
   Input candidate names in the search of the following link:
   https://www.electoralcommission.org.uk/2019-candidate-spending?section=
   
